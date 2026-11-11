@@ -1,5 +1,7 @@
 # Vehicle First Person
 
+<img src="media/icon.png" alt="Vehicle First Person icon" width="128" height="128">
+
 Alt+V toggles the vanilla seated first-person camera.
 
 ## Install
