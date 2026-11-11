@@ -1,0 +1,12 @@
+{
+  "id": "vehicle-first-person",
+  "kind": "native",
+  "version": "0.1.0",
+  "display_name": "Vehicle First Person",
+  "gameplay": true,
+  "feature_dependencies": [],
+  "play_help": [
+    "Alt+V toggles first-person while seated.",
+    "Implementation build only; game testing is deferred."
+  ]
+}
